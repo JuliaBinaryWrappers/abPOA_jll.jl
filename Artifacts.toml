@@ -1,0 +1,34 @@
+[[abPOA]]
+arch = "x86_64"
+git-tree-sha1 = "a8b6e53fc6e9b2d7ce01d6114a8d99e5209f5fab"
+os = "macos"
+
+    [[abPOA.download]]
+    sha256 = "d835ae8295981a21bfa70ac920d55531610395637f7118c6f50be667dde96c9d"
+    url = "https://github.com/JuliaBinaryWrappers/abPOA_jll.jl/releases/download/abPOA-v1.4.1+0/abPOA.v1.4.1.x86_64-apple-darwin.tar.gz"
+[[abPOA]]
+arch = "x86_64"
+git-tree-sha1 = "a366741f2215c61f2ee3d5241526a0e819b3ec70"
+libc = "glibc"
+os = "linux"
+
+    [[abPOA.download]]
+    sha256 = "9295e571c9138585200117548481619ee2b15645f2733575235086eb3732e14a"
+    url = "https://github.com/JuliaBinaryWrappers/abPOA_jll.jl/releases/download/abPOA-v1.4.1+0/abPOA.v1.4.1.x86_64-linux-gnu.tar.gz"
+[[abPOA]]
+arch = "x86_64"
+git-tree-sha1 = "2df9ea3ecb6bce693c5cb661803ed0d1525b9808"
+libc = "musl"
+os = "linux"
+
+    [[abPOA.download]]
+    sha256 = "984696b9f53d3edf00170871beb03206d8a64eeaee6dc6ff71f7c15c8150a4b4"
+    url = "https://github.com/JuliaBinaryWrappers/abPOA_jll.jl/releases/download/abPOA-v1.4.1+0/abPOA.v1.4.1.x86_64-linux-musl.tar.gz"
+[[abPOA]]
+arch = "x86_64"
+git-tree-sha1 = "0b6459acb56d3f7e469b64490f2faedc9538a266"
+os = "freebsd"
+
+    [[abPOA.download]]
+    sha256 = "7bf554ed5a332bc0b33816c716ebb073b51beda191df31812aea1ad2ca2a768c"
+    url = "https://github.com/JuliaBinaryWrappers/abPOA_jll.jl/releases/download/abPOA-v1.4.1+0/abPOA.v1.4.1.x86_64-unknown-freebsd.tar.gz"
